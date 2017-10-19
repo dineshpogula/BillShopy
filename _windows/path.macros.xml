@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="frameworks" value="C:/Users/dpogula/Downloads/frameworks-base-harman-info3-mm-my19-release-6dc2d3362e9fa44f338ae3933aa81654e3f4c9c6/frameworks" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Users\dpogula\.AndroidStudioPreview3.0\config\plugins\Kotlin\kotlinc" />
+  </component>
+</application>

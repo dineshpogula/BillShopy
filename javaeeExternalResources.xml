@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="&gt;&#10;&#10;    &lt;LinearLayout&#10;        android:id=" />
+    <ignored-resource url="http://schemas.android.com/apk/res/android" />
+    <ignored-resource url="http://schemas.android.com/apk/res/com.gm.settings" />
+  </component>
+</application>
